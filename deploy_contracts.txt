@@ -1,0 +1,68 @@
+{"environment_variables:":{"PREFIX":null,"CHAIN":"ethereum-2","URL":"https://eth-goerli.g.alchemy.com/v2/HRst6AUGn-P6DrHrufDc-yH4gi08Xsms","AXELAR_NODE_ADDR":"https://rpc-axelar-testnet.imperator.co:443","PRIVATE_KEY":"*****REDACTED*****","ADMIN_PUBKEYS":null,"ADMIN_ADDRESSES":"[\"0x9494DE3fe6f3fd6646AE028B305d3c83e46eA138\", \"0x24CA3678D5B019FA5A77ce022Bf07EF673BcF42E\", \"0x5fBD10Eb4C1bE4c4f642C92fB75C7aCc986c0a0d\", \"0xe62daA2e6d4bA00Dc745325Af3607055d7D09608\"]","ADMIN_THRESHOLD":2,"MAX_FEE_PER_GAS":null,"MAX_PRIORITY_FEE_PER_GAS":null,"GAS_PRICE":"255000000000","GAS_LIMIT":10000000000,"SKIP_CONFIRM":null}}
+
+{"log":"ensure the values above are correct, and if so press 'y' to continue"}
+y
+{"log":"retrieving addresses"}
+{"addresses":["0x03847bfac426766AD73176c6d145ED4e390327eB","0x06550Dc6EBF01CD4980512B4e9c6f92aCF10D577","0x0B52Beb21F7D150642f3304a3F6557cC2421ddc0","0x0F5250675D16CEDE5E73ac76d1a3C2e122f041cC","0x16fd7A6D6d09B938A2dF1b332D2e951Fb91bB019","0x1afbC66A963C651B7655FFCcc6fcF4795cD4cC1f","0x1B073d9BA07323f6dA157FA6F0F55a69E3815B35","0x249B769c73A5e91c7d9C0379C0DAd122e1F2d05b","0x265293f97A343E6cA77480d70d14e7BEb49fafd5","0x2cB39Aa8e6DaCBa7bE190c4CF9B02ab1E6Aed8a6","0x3062F9F832aF1701427474b0461FF9D6f3D0848D","0x39BA7F39f121f980A56686739d1344f7bE89a519","0x3AFA03a9dcD87Bb36daDbFe4ed7DF7a4eCe58a69","0x3cdAa72fe16B4D124c57CD65f1ece666a44C2679","0x3e4413074D8E52De182783cCe295d932F70BF4Aa","0x43CFb7655b92B2Bfb8D31f98C17ECed354e4A130","0x4792B50aEb7C371888cCd85Cc959183999a80617","0x4a2de5b6c4Cd2Db2Bb32F5B3c00A353B24451e09","0x4cF8f3A2079A300077fD4F0220658B3673557694","0x4FdC52c92Cc4892825cf98F01bD6bb76f357d9DE","0x52499aDF65561Ec2402f95A98b1AcdF2A16e3C5a","0x535869098c395b7Ae1FA2f7eC2170CD3A0dc3a0a","0x5726EA15B721acD87EeB0D889898Ad71D8370aBD","0x5A75E107915c346ac43d793A8fcc07efa5869987","0x6478b4B0f40a0872Bda50f1B856Fb085d6fD20A5","0x64f2d01fAA8aC1Dfdf1A2412706149793eBECB97","0x660da48eb53963c670b408b94a9BD4dD0B3812c9","0x6695a1757Ae127a277E819931d1304CA962363F7","0x6cF1936a356Ad0e5414707Eec6919D5539587172","0x73052Ac6c6FB37b757E81E92B00241031c531257","0x76B041e9Af317296A530E03836CdCac2ac84344F","0x7ece923bc1d6Ec5E7D1F7BbB5A5745B2C33e0c63","0x854bd5c90B85C3cfB86124F75814F9C7Ce343F10","0x87Be042430173e3EadA8E4E0EB50CDdfC2539Be6","0x8A8371ABE70b5494c45a5e37f242b60B6414e08a","0x915b1c1Dc25195eA0B2Dd6dD20D187a8b809EE6E","0x978E12B7092D77bDa6D994dB33A03d4A27DC089e","0x996591909CC6a8e5108053825015A72fD0cac5B1","0x9Bd87b01277f5a21BB797eE8F1E2AD9700169B11","0xA0aDcd1249708025e980258143F6cf7E39F439fA","0xA0C4AC6a67D233C3c83bE7362A56684f9d559e97","0xA7eF331C62c42F7Ec73985D05B91DBe98534cf78","0xadFd5212F6dCc8C15a60B0D085b721D8cbFb8eAc","0xae209709D2e26738B317e21c978542f15EfCFE2e","0xaF139C9CA5078c306A101A820958Fa15a1eaa04B","0xb0cb9a172F9aecC0F0AF1F1cAB56A56C235DbC89","0xB171ea62a8045Cf790FBc45ef49c2199020968D8","0xb2E218831c41a12D24837419160a8934FE93F9bc","0xb506C3A4b3142431280af905758b4641bf1700D6","0xB8EC26467e5349CC9ceB21deeD2d7f4FF770039c","0xbAD0837A67FC1128b6B7cf694b4db3402CCD4A5b","0xBc25C83cd7Ae1B76B3A3F7877Adb68c576E6EdF3","0xc28cD2D25e9fA795415dEA1876173F32705e89Ee","0xc4C6a84120D9C86F8a85BedFe1B23E4C6A582505","0xCAeC476Bb84da5DDb25F7Cbf99134bC0468548D7","0xCD5a407B83A734E0aB89BBe81049f643563A9ace","0xCE1f6349465F43d67EDAf5cB986A58D340dC288f","0xCEb6B3d2fB3Ff60C8cC79909aaD4e7FafA67eb44","0xCfeA59a68ab9eF12c10E48a135E5737dBD4c2147","0xd6b5834f4386e1A68Ce1eD551Bcb7fFCe0F739D0","0xD8f1440dA9e221a5fC54c6C7a58c5f044A50cE71","0xE156AEce89Bb05aD4eeCC992C83837FD60303f4D","0xE78F43Ce811eED617716CAb6c7a6384F82271D75","0xe9E2804e7aee308f579aca008Ab3035Ac293a38d","0xeD92DB63B52C896c65FEcd4BBC38d530bBE8AD0C","0xf08EBF0120d1c324a2774d0D17CBb79F2d8c810b","0xf2da73aB78698257666e2b15821D7a74571b81B4","0xF5c10eAF57870CfF34AA852d562Fa31f0F35B4A2","0xF9e536d172889662F8D6e7a9D1d08Bee028D9022","0xFa141CD21520F80A31DBdE68BA4cfcF1BCa58587","0xFDCE1495f4F18b570B1c125BfFc6CCf1cd0f291E"],"weights":[1000,2,613,12,318,1007,154,244,181,144,148,145,158,751,148,149,146,453,138,153,395,642,141,141,151,141,469,266,141,168,170,230,150,912,281,205,148,141,565,171,141,154,145,155,177,12,707,149,124,731,145,141,403,157,8739,100,336,148,1000,144,160,726,8624,150,144,145,152,8840,424,173,1002],"threshold":27717}
+{"admins":["0x9494DE3fe6f3fd6646AE028B305d3c83e46eA138","0x24CA3678D5B019FA5A77ce022Bf07EF673BcF42E","0x5fBD10Eb4C1bE4c4f642C92fB75C7aCc986c0a0d","0xe62daA2e6d4bA00Dc745325Af3607055d7D09608"]}
+{"log":"fetching fee data"}
+{"feeData":{"maxFeePerGas":{"type":"BigNumber","hex":"0x626c712110"},"maxPriorityFeePerGas":{"type":"BigNumber","hex":"0x59682f00"},"gasPrice":{"type":"BigNumber","hex":"0x310f7a5a08"}}}
+{"tx_options":{"maxFeePerGas":{"type":"BigNumber","hex":"0x626c712110"},"maxPriorityFeePerGas":{"type":"BigNumber","hex":"0x59682f00"},"gasLimit":10000000000}}
+{"log":"loading contract factories"}
+{"log":"contract factories loaded"}
+{"log":"deploying auth contract"}
+{"log":"deployed auth at address 0x9466Ff43eB58B810e854786bf012B6aB31fE48eC"}
+{"log":"deploying token deployer contract"}
+{"log":"deployed token deployer at address 0x6dA7140eae74ceb6403E8B6B41Dcf85b3DAA4638"}
+{"log":"deploying gateway implementation contract"}
+{"log":"deployed gateway implementation at address 0x60D570005e582641C100DBC8Bcbce346D60e20eF"}
+{"log":"deploying gateway proxy contract"}
+{"log":"deployed gateway proxy at address 0xCd2E7d1AD350EB40A08EF9cbB19ad25a2dC37488"}
+{"log":"transferring auth ownership"}
+Error: processing response error (body="{\"jsonrpc\":\"2.0\",\"id\":156,\"error\":{\"code\":-32000,\"message\":\"exceeds block gas limit\"}}", error={"code":-32000}, requestBody="{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f89205048459682f0085626c7121108502540be400949466ff43eb58b810e854786bf012b6ab31fe48ec80a4f2fde38b000000000000000000000000cd2e7d1ad350eb40a08ef9cbb19ad25a2dc37488c001a0884151710d9f4f3bf5097c97f81f8e9282f40c3112732787625d2a0e7b1c69e0a0375f19cfd379c207f5ffad8339c8a62f274fb9ca12ce3b0af1528beb1da27268\"],\"id\":156,\"jsonrpc\":\"2.0\"}", requestMethod="POST", url="https://eth-goerli.g.alchemy.com/v2/HRst6AUGn-P6DrHrufDc-yH4gi08Xsms", code=SERVER_ERROR, version=web/5.6.1)
+    at Logger.makeError (/home/radu/p/axelar/axelar-cgp-solidity/node_modules/@ethersproject/logger/lib/index.js:233:21)
+    at Logger.throwError (/home/radu/p/axelar/axelar-cgp-solidity/node_modules/@ethersproject/logger/lib/index.js:242:20)
+    at /home/radu/p/axelar/axelar-cgp-solidity/node_modules/@ethersproject/web/lib/index.js:305:32
+    at step (/home/radu/p/axelar/axelar-cgp-solidity/node_modules/@ethersproject/web/lib/index.js:33:23)
+    at Object.next (/home/radu/p/axelar/axelar-cgp-solidity/node_modules/@ethersproject/web/lib/index.js:14:53)
+    at fulfilled (/home/radu/p/axelar/axelar-cgp-solidity/node_modules/@ethersproject/web/lib/index.js:5:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  reason: 'processing response error',
+  code: 'SERVER_ERROR',
+  body: '{"jsonrpc":"2.0","id":156,"error":{"code":-32000,"message":"exceeds block gas limit"}}',
+  error: Error: exceeds block gas limit
+      at getResult (/home/radu/p/axelar/axelar-cgp-solidity/node_modules/@ethersproject/providers/lib/json-rpc-provider.js:191:21)
+      at processJsonFunc (/home/radu/p/axelar/axelar-cgp-solidity/node_modules/@ethersproject/web/lib/index.js:348:22)
+      at /home/radu/p/axelar/axelar-cgp-solidity/node_modules/@ethersproject/web/lib/index.js:280:46
+      at step (/home/radu/p/axelar/axelar-cgp-solidity/node_modules/@ethersproject/web/lib/index.js:33:23)
+      at Object.next (/home/radu/p/axelar/axelar-cgp-solidity/node_modules/@ethersproject/web/lib/index.js:14:53)
+      at fulfilled (/home/radu/p/axelar/axelar-cgp-solidity/node_modules/@ethersproject/web/lib/index.js:5:58)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+    code: -32000,
+    data: undefined
+  },
+  requestBody: '{"method":"eth_sendRawTransaction","params":["0x02f89205048459682f0085626c7121108502540be400949466ff43eb58b810e854786bf012b6ab31fe48ec80a4f2fde38b000000000000000000000000cd2e7d1ad350eb40a08ef9cbb19ad25a2dc37488c001a0884151710d9f4f3bf5097c97f81f8e9282f40c3112732787625d2a0e7b1c69e0a0375f19cfd379c207f5ffad8339c8a62f274fb9ca12ce3b0af1528beb1da27268"],"id":156,"jsonrpc":"2.0"}',
+  requestMethod: 'POST',
+  url: 'https://eth-goerli.g.alchemy.com/v2/HRst6AUGn-P6DrHrufDc-yH4gi08Xsms',
+  transaction: {
+    type: 2,
+    chainId: 5,
+    nonce: 4,
+    maxPriorityFeePerGas: BigNumber { value: "1500000000" },
+    maxFeePerGas: BigNumber { value: "422726148368" },
+    gasPrice: null,
+    gasLimit: BigNumber { value: "10000000000" },
+    to: '0x9466Ff43eB58B810e854786bf012B6aB31fE48eC',
+    value: BigNumber { value: "0" },
+    data: '0xf2fde38b000000000000000000000000cd2e7d1ad350eb40a08ef9cbb19ad25a2dc37488',
+    accessList: [],
+    hash: '0xa5e7cecbfac83bbd3e4a7ad85d10d4966b2d5c96c6c57952a274a650dc99d0dc',
+    v: 1,
+    r: '0x884151710d9f4f3bf5097c97f81f8e9282f40c3112732787625d2a0e7b1c69e0',
+    s: '0x375f19cfd379c207f5ffad8339c8a62f274fb9ca12ce3b0af1528beb1da27268',
+    from: '0x1136531fC79dd043cD33641C0ed14d10A0bE9e3f',
+    confirmations: 0
+  },
+  transactionHash: '0xa5e7cecbfac83bbd3e4a7ad85d10d4966b2d5c96c6c57952a274a650dc99d0dc'
+}
+{"contract_addresses":{"auth":"0x9466Ff43eB58B810e854786bf012B6aB31fE48eC","tokenDeployer":"0x6dA7140eae74ceb6403E8B6B41Dcf85b3DAA4638","gatewayImplementation":"0x60D570005e582641C100DBC8Bcbce346D60e20eF","gatewayProxy":"0xCd2E7d1AD350EB40A08EF9cbB19ad25a2dC37488"}}
